@@ -4,3 +4,4 @@ Desc. of repo. Fun with github
 ## Druga linia 
 ### Trzecia linia 
 Treść
+dalej 
