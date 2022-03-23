@@ -53,8 +53,6 @@ def Azimuth(pkt1, pkt2):
         angle = math.pi / 2.0
     if y2 == y1 :
         angle = 0.0
-    elif y2 < y1 :
-        angle = 3.0 * math.pi / 2.0
     elif x2 > x1 and y2 > y1:
         angle = math.atan(dx / dy)
     elif x2 > x1 and y2 < y1 :
